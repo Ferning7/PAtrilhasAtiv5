@@ -13,7 +13,7 @@ f) Crie um programa que permita ao usuário inserir um número inteiro e exiba u
 g) Crie um programa que permita ao usuário escolher uma cor (vermelho, azul ou verde) e exiba uma mensagem informando a cor escolhida.\
 h) Crie um programa que permita ao usuário inserir uma letra e exiba uma mensagem informando se é uma vogal ou consoante.\
 i) Crie um programa que leia um número inteiro de 1 a 7 e exiba o dia da semana correspondente, utilizando o switch.\
-j) Crie um programa que permita ao usuário escolher uma das três opções de tamanho de camiseta (P, M ou G) e exiba o preço correspondente, utilizando o switch.\
+j) Crie um programa que permita ao usuário escolher uma das três opções de tamanho de camiseta (P, M ou G) e exiba o preço correspondente, utilizando o switch.
 
 # Enunciados da lista 7
 a) Crie um programa que solicite ao usuário para inserir um número inteiro positivo e, em seguida, exiba todos os números pares entre 0 e o número inserido.\
